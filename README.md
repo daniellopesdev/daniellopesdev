@@ -32,12 +32,6 @@ Full stack (frontend-lean) at **VML**, Lisboa. I take platforms from zero throug
 | Motion | GSAP · Framer Motion · React Three Fiber |
 | Quality | Playwright · Storybook · Git |
 
-Default on new builds: typed CMS → generated props → App Router → Storybook + Playwright.
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=daniellopesdev&show_icons=true&hide_title=true&hide_border=true&theme=dark&bg_color=0c0c0c&title_color=ff1a00&icon_color=ff1a00&text_color=c4c4c4&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopesdev&layout=compact&hide_border=true&theme=dark&bg_color=0c0c0c&title_color=ff1a00&text_color=c4c4c4&langs_count=6" alt="Top languages across public repos" />
-</p>
 
 ---
 
