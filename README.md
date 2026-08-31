@@ -1,8 +1,3 @@
-<p align="left">
-  <img src="./assets/header.svg" alt="Daniel Lopes — Full Stack Developer, frontend-lean" width="100%" />
-</p>
-
-I've taken sites and platforms from zero and owned them through to production — CMS, APIs, and the client. I go deepest on frontend, including the UX/UI pass with designers.
 
 **[dnllopes.dev](https://dnllopes.dev)** · [LinkedIn](https://www.linkedin.com/in/dnllopes/) · [daniellopes24@gmail.com](mailto:daniellopes24@gmail.com)
 
