@@ -42,7 +42,6 @@ Most case studies, stills, and write-ups are on the site — not in public GitHu
 - [dnllopes.dev](https://dnllopes.dev) — portfolio
 - [dnllopes.dev/work](https://dnllopes.dev/work) — project index
 - [dnllopes.dev/about](https://dnllopes.dev/about) — experience and approach
-- [LinkedIn](https://www.linkedin.com/in/dnllopes/)
 - [daniellopes24@gmail.com](mailto:daniellopes24@gmail.com)
 
 Live properties: [onemark.pt](https://www.onemark.pt) · [reserva1500.com](https://www.reserva1500.com/pt) · [1755quake.com](https://1755quake.com/en) · [grace.pt](https://grace.pt/pt) · [pro-mov.pt](https://pro-mov.pt/) · [grupofersil.com](https://grupofersil.com/)
