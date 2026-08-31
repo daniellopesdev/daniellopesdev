@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-label="Daniel Lopes  Full Stack Developer, frontend-lean">
+  <rect width="1280" height="280" fill="#0c0c0c"/>
+  <rect x="0" y="0" width="4" height="280" fill="#ff1a00"/>
+  <text x="48" y="48" fill="#ff1a00" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="6">DL · LISBOA · VML</text>
+  <text x="48" y="168" fill="#ff1a00" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-weight="700">DANIEL LOPES</text>
+  <text x="48" y="228" fill="#c4c4c4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="3">FULL STACK · FRONTEND-LEAN · NEXT.JS PLATFORMS</text>
+</svg>
