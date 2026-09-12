@@ -4,20 +4,6 @@ Full stack (frontend-lean) at **VML**, Lisboa. I take platforms from zero throug
 
 ---
 
-## Overview
-
-10+ years, campaign HTML → multi-brand Next.js platforms. Same job each time: own the request path, deepest on the client.
-
-| Kind | What that looks like |
-| --- | --- |
-| Multi-brand platforms | One codebase, 14+ sites — theme tokens, GraphQL codegen, per-brand SSR/ISR |
-| Headless commerce | Storefront + checkout + identity, Portuguese payments, cross-domain auth |
-| Public / humanitarian | Government registration, WCAG, procurement catalogues at SKU scale |
-| Creative / WebGL | Scroll-driven type, shaders, Three.js on the same Next.js stack |
-| Campaign systems | HTML5 / Adform / MRAID frameworks that still feed the agency pipeline |
-
----
-
 ## Stack
 
 <p align="left">
