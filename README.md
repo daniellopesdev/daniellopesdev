@@ -1,4 +1,4 @@
-Full stack (frontend-lean) at **VML**, Lisboa. I take platforms from zero through CMS, APIs, and the client. Most of that work lives in private agency repos — the overview and links below are the public map.
+Full stack (frontend-lean) at **VML**, Lisboa. 
 
 **[Portfolio](https://dnllopes.dev)** · **[Work](https://dnllopes.dev/work)** · **[About](https://dnllopes.dev/about)** · **[LinkedIn](https://www.linkedin.com/in/dnllopes/)** · **[Email](mailto:daniellopes24@gmail.com)**
 
